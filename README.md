@@ -17,10 +17,8 @@ LaserTracker is a Python-based system for real-time laser point tracking using c
 
 # Circuit Diagram
 
-
-![Screenshot 2024-04-23 190904](https://github.com/Chetan-Khichar/LaserCamTracker/assets/167883153/ad343f0f-ddad-4848-a2cb-9e5dd8c602ca)
 ![Screenshot 2024-04-23 185409](https://github.com/Chetan-Khichar/LaserCamTracker/assets/167883153/4e0c0e95-f059-4aab-a3c2-add8b4c409bd)
-![Screenshot 2024-04-23 185409](https://github.com/Chetan-Khichar/LaserCamTracker/assets/167883153/946dc0e0-52f3-41bf-9d2f-1e1f44d127bf)
+
 
 # Setup
 * Install Python Dependencies:
